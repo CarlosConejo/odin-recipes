@@ -1,0 +1,1 @@
+Hello, this project is a small recipe project. It will be my first odin project. The skills I will have demonstrated when I am done is (I will get back to this when I am done with the project)
